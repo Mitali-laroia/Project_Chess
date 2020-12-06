@@ -5,3 +5,4 @@
  https://www.geeksforgeeks.org/design-a-chess-game/
  
  The project development will be divided into different tasks and this repository will track progress of each candidiate.
+ Folders named after each mentee is there to track the project progress.
